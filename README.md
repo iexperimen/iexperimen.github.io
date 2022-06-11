@@ -9,7 +9,7 @@ iExperiment is a small project, built for future asset storage.
 `#Music`
 
 ## Widget
->Website Respomsive **[Profile](https://iexperimen.github.io/profile)**
+>Website Responsive **[Profile](https://iexperimen.github.io/profile)**
 
 >MetaMask Wallet **[Balance](https://iexperimen.github.io/balance)**
 
