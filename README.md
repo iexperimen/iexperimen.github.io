@@ -11,7 +11,7 @@ iExperiment is a small project, built for future asset storage.
 ## Widget
 >Website Responsive **[Profile](https://iexperimen.github.io/profile)**
 
->MetaMask Wallet **[Balance](https://iexperimen.github.io/balance)**, **[Balance](https://iexperimen.github.io/metamask/send)**
+>MetaMask Wallet **[Balance](https://iexperimen.github.io/balance)**, **[SendTransactions](https://iexperimen.github.io/metamask/send)**
 
 >**[Crypto Live](https://iexperimen.github.io/cryptolive)**, **[Single ETH](https://iexperimen.github.io/cryptolive/eth)**, **[Single BTC](https://iexperimen.github.io/cryptolive/btc)**
 
