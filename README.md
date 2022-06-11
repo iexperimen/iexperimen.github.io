@@ -9,11 +9,11 @@ iExperiment is a small project, built for future asset storage.
 `#Music`
 
 ## Widget
->**[Profile](https://iexperiment.github.io/Profile)**
+>Website Respomsive **[Profile](https://iexperiment.github.io/Profile)**
 
 >MetaMask Wallet **[Balance](https://iexperiment.github.io/balance)**
 
->**[Crypto Live](https://iexperiment.github.io/cryptolive)**
+>**[Crypto Live](https://iexperiment.github.io/cryptolive)**, **[Single ETH](https://iexperiment.github.io/cryptolive/eth)**, **[Single BTC](https://iexperiment.github.io/cryptolive/btc)**
 
 
 ### Follow Us
