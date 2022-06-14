@@ -1,5 +1,5 @@
-# iExperiment
-iExperiment is a small project, built for future asset storage.
+# iExperimen
+iExperimen is a small project, built for future asset storage.
 
 ## Content
 `#Website`
