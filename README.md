@@ -25,7 +25,7 @@ iExperiment is a small project, built for future asset storage.
 ### Follow Us
 >Twitter : **[@iexperimen](https://twitter.com/iexperimen)**
 
->Instagram : **[@official.iexperiment](https://instagram.com/official.iexperiment)**
+>Instagram : **[iexperimen](https://instagram.com/iexperimen)**
 
 >Facebook : **[@iexperimen](https://facebook.com/iexperimen)**
 
