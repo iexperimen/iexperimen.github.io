@@ -24,6 +24,9 @@ iExperimen is a small project, built for future asset storage.
 
 >Check Privacy **[NOTOK](https://iexperimen.github.io/privacy/)**
 
+# PHP & XAMPP (mysqli)
+>**[Create DB](https://github.com/iexperimen/php/tree/main/create_db)**
+
 
 ### Follow Us
 >Twitter : **[@iexperimen](https://twitter.com/iexperimen)**
