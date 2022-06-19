@@ -30,6 +30,8 @@ iExperimen is a small project, built for future asset storage.
 # HTML & CSS
 >**[Flip Card](https://iexperimen.github.io/html/flipcard/)**
 
+>**[Chips](https://iexperimen.github.io/html/chips)**
+
 
 ### Follow Us
 >Twitter : **[@iexperimen](https://twitter.com/iexperimen)**
