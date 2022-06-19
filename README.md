@@ -9,7 +9,7 @@ iExperimen is a small project, built for future asset storage.
 `#Music`
 
 ## WHAT LANG
-`I write make a web code with language PHP, HTML, CSS, JS & MSQLI Database`
+`I write make a web with language code PHP, HTML, CSS, JS & MSQLI Database`
 
 ## Widget
 >Website NFT Responsive **[iCollector](https://icollector.000webhostapp.com/)**
