@@ -35,7 +35,7 @@ iExperimen is a small project, built for future asset storage.
 >**[Chips](https://iexperimen.github.io/html/chips)**
 
 # About IEXP, IEXP Token, IEXP Coin
->**[WARNING!](iexperimen.github.io/iexptoken/)**
+>**[WARNING!](/iexptoken)**
 
 
 ### Follow Us
